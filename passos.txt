@@ -1,0 +1,8 @@
+ssh-keygen -t ed25519 -C "didimontcho@gmail.com"
+git remote remove origin
+git init
+git add .
+git commit -m "Meu primeiro commit"
+git remote add origin git@github.com:Dietrich061991/Projeto-django.git
+git push --set-upstream origin main
+git push
