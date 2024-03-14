@@ -48,3 +48,7 @@ Host github.com
 Passo 3 - Salve o arquivo e reinicie o computador
 
 No meu caso funcionou normalmente. Caso não funcione contigo, por favor, tente pesquisar um pouco mais a fundo sobre como fazer as chaves SSH funcionarem corretamente no Windows.
+
+#######################################################################################
+
+django-admin --help
