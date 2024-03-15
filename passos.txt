@@ -52,3 +52,12 @@ No meu caso funcionou normalmente. Caso não funcione contigo, por favor, tente 
 #######################################################################################
 
 django-admin --help
+
+#######################################################################################
+Criando o projeto
+ 
+    django-admin startproject projeto .
+
+rodando 
+
+    python .\manage.py runserver
